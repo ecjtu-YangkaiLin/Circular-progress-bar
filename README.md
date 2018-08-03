@@ -10,4 +10,4 @@ ProgressBar.init(Values, duration, interval, format, fontSize)
 
 If you want to update the existing progress, execute *init* again.
 
-![image](http://github.com/tkkeni/Circular-progress-bar/raw/master/example.png)
+![image](https://github.com/tkkeni/Circular-progress-bar/raw/master/example.png)
